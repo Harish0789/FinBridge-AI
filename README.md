@@ -205,7 +205,7 @@ streamlit run frontend/streamlit_app.py
 
 # 👨‍💻 Team INTMAIN
 
-| Member         | Role                       |
+| Member         | Primary Responsibility     |
 | -------------- | -------------------------- |
 | Nihar Patil    | Team Lead & AI             |
 | Harish Bangaru | UI/Frontend & Presentation |
